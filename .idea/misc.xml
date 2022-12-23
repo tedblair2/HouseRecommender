@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_buy.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_email.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_library.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_lock.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_phone.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-anydpi/ic_profile.xml" value="0.1575" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-hdpi/active_dot.xml" value="0.11" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable-hdpi/nonactive_dot.xml" value="0.13" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/drawable/button_background.xml" value="0.215625" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_edit.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_main.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_post.xml" value="0.25" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_postedit.xml" value="0.21" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/activity_start.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/choice_items.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/edit_items.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_add.xml" value="0.18" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_buy.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_history.xml" value="0.22" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_library.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_profile.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_recommendations.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/fragment_rent.xml" value="0.22" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/house_items.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/items_upload.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/profile_items.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/upload_items.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/layout/view_items.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/menu/bottom_nav.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/menu/choice.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/user/Downloads/Android studio projects/REaste4/app/src/main/res/menu/toolbar_menu.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
